@@ -91,7 +91,7 @@ spring:
   datasource:
     username: root
     password: Tao891224
-    url: jdbc:mysql:///cloud1?useSSL=true&useUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql:///cloud2?useSSL=true&useUnicode=true&characterEncoding=utf8
     driver-class-name: com.mysql.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
 #  druid数据源配置文件
